@@ -4,22 +4,14 @@ This project is a Next Word Prediction Web Application built using Streamlit and
 Installation
 To run this project locally, follow these steps:
 
-Clone the Repository
-First, clone the repository and navigate to the project folder:
-
-bash
-Copy code
+1. Clone the Repository : First, clone the repository and navigate to the project folder:
 git clone https://github.com/yourusername/next-word-prediction.git
 cd next-word-prediction
-Install Dependencies
+
+2. Install Dependencies
 Ensure you have Python 3.8+ installed. Then, install the required libraries listed in requirements.txt:
-
-bash
-Copy code
 pip install -r requirements.txt
-Run the Application
-Launch the app using Streamlit:
 
-bash
-Copy code
+3. Run the Application
+Launch the app using Streamlit:
 streamlit run app.py
