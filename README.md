@@ -10,8 +10,10 @@ o cd next-word-prediction
 
 2. Install Dependencies
 Ensure you have Python 3.8+ installed. Then, install the required libraries listed in requirements.txt:
+
 o pip install -r requirements.txt
 
 3. Run the Application
 Launch the app using Streamlit:
+
 o streamlit run app.py
