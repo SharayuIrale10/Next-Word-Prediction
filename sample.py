@@ -29,7 +29,7 @@ def predict_next_word(text, top_k=5, temperature=1.0):
     return dict(zip(predicted_words, prediction_scores))
 
 def main():
-    st.title("Enhanced Next Word Prediction")
+    st.title(" Next Word Prediction")
     st.markdown("This app suggests the next word based on the input text. Adjust settings to customize your predictions.")
 
     text = st.text_input("Start typing:", value="Hello how")
